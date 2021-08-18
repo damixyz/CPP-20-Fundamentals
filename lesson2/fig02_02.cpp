@@ -2,6 +2,5 @@
 
 int main(int argc, char const *argv[])
 {
-    std::cout << "Welcome ";
-    std::cout << "to C++!\n";
+    std::cout << "Welcome \nto\n\nC++!\n";
 } // end function main
